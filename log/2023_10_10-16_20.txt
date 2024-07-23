@@ -1,0 +1,9 @@
+ter, 10 out 2023 16:20:41 INFO     Começando o processamento;
+ter, 10 out 2023 16:20:41 INFO     Mudando o status;
+ter, 10 out 2023 16:20:41 DEBUG    Starting new HTTPS connection (1): geo2utilitiesap.img.com.br:443
+ter, 10 out 2023 16:20:41 DEBUG    https://geo2utilitiesap.img.com.br:443 "POST /server/rest/services/Hosted/Eletrobras_ONS/FeatureServer/2/updateFeatures HTTP/1.1" 200 None
+ter, 10 out 2023 16:21:21 INFO     Transformando o BARRAMENTOS.xlsx e suas abas em csvs;
+ter, 10 out 2023 16:21:24 INFO     Adicionando na tabela BAR;
+ter, 10 out 2023 16:21:24 INFO     BAR:
+ter, 10 out 2023 16:21:27 DEBUG    Starting new HTTPS connection (1): geo2utilitiesap.img.com.br:443
+ter, 10 out 2023 16:21:28 DEBUG    https://geo2utilitiesap.img.com.br:443 "POST /server/rest/services/Hosted/Eletrobras_ONS/FeatureServer/2/updateFeatures HTTP/1.1" 200 None
